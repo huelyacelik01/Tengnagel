@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tevārīḫ-i Āl-i ʿOs̱mān</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.251</idno>
+                    <altIdentifier type='FC'>
+                        <idno>983</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>23</idno>
+                    </altIdentifier>
+                    <msName>Tevārīḫ-i Āl-i ʿOs̱mān</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>The annals of the Ottoman ruling dynasty from its origin to the year 876 (beg. 20 June 1471).</summary>
+                    <textLang>mainLang='tr' commentLang='la'</textLang>
+                    <author>unknown</author>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>not available</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Tevārīḫ-i Āl-i ʿOs̱mān</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='history'>
+                                <subcat>Ottoman history.</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>White yellow paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>142 Bll.(Bl.143 account from the previous owner) wide Octav
+                            <dimensions unit='cm'>
+                                <height>17,78</height>
+                                <width>12,7</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>will be added</condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>
+                            <p>The heading are red.</p>
+                        </layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Nashî to 13 lines, very clear and pleasing.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>1v: Historia à condito imperio Othmanico vsqß ad annum Hegirae sive aerae Muhammedanae octingentesimum septuagesimum sextum. Conscripta Lingua Turcica. N. 23.; Bl. I: Ms. Arab. Pers. Turc. Tengnag. N. 23; and some Ottoman comments/notes (of ST?) on: 62r, 83v, 89v, 91r, 93r, 143v (!)</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not available</origPlace>
+                        <origDate>not available</origDate>
+                    </origin>
+                    <provenance>
+                        <p>Von seinem Ursprünge bis zum <origDate notBefore='1470' notAfter='1471'>J.876 (beg. 20. Juni 1471)</origDate>, von unbekanntem Verfasser, der, wenn er in der Zeit schrieb, bis zu welcher seine Geschichte reicht, unter <name type='person'>Muḥammad II.</name> gelebt haben. Die erste erwähnte Zahl ist das J. 706 und der Codex wahrscheinlich das von Veranzius (Wranczy) von seiner Botschaft an <name type='person'>Salîm II.</name> mitgebrachte Exemplar der alten Chronik, welche <name type='person'>Lewenklau</name> in seiner musulmanischen Geschichte benutzte.</p>
+                    </provenance>
+                    <accquisition>present 1636</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

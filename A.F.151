@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Al-Amālī</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.151</idno>
+                    <altIdentifier type='FC'>
+                        <idno>386</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>not available</idno>
+                    </altIdentifier>
+                    <msName>Al-Amālī</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>A highly instructive collection of grammatical and factual remarks on six different texts.</summary>
+                    <textLang>mainLang='ar' commentLang='la'</textLang>
+                    <author>Ibn al-Ḥâdschib</author>
+                        <ref>http://d-nb.info/gnd/118969730</ref>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>not available</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Al-Amālī</title> 
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='multiple text manuscripts'>
+                                <subcat>will be added</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>White and strong Paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>134 Bll.(Bl.135 and 136 Notata)wide Octav
+                            <dimensions unit='cm'>
+                                <height>20,32</height>
+                                <width>12,7</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>
+                            <p>Well preserved.</p>
+                        </condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>
+                            <p>The text passages are highlighted with a red و قال, here and there marginal glosses.</p>
+                        </layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>
+                            <p>Bl.16 restored to 27 lines by another hand.</p>
+                        </handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Nashî to 21 lines, quite old, magribine stroke, somewhat pale, otherwise clear.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>Sebastian Tengnagel on 1r: Observationes Grammaticae in Alcoranum; Auctore Gemaleddin Ebu Omar Ben Alhagieb; no comments/annotations.</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not available</origPlace>
+                        <origDate>not available</origDate>
+                    </origin>
+                    <provenance>will be added</provenance>
+                    <accquisition>not available</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

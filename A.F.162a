@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>At-taʿlīqa</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.162a</idno>
+                    <altIdentifier type='FC'>
+                        <idno>1492</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>22</idno>
+                    </altIdentifier>
+                    <msName>At-taʿlīqa</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>The quickly thrown down treatise.</summary>
+                    <textLang>mainLang='ar' commentLang='la'</textLang>
+                    <author>Shayḫ Imām Sharafaddīn aka Ṭaḳīyuddīn / Muḥyīddîn Abū l-Abbās Aḥmad Bin Abī l-Ḥasan ʿAlī Bin Yūsuf al-Būnī al-Kurašī</author>
+                        <ref>http://d-nb.info/gnd/119264560</ref>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>Shaʿbān Bin Muḥammad</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>At-taʿlīqa</title> 
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='science'>
+                                <subcat>Alchemy.</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>White and strong paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>96 Bll.(Bl.1v-2r empty)wide Octav
+                            <dimensions unit='cm'>
+                                <height>17,78</height>
+                                <width>12,7</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>
+                            <p>Well preserved.</p>
+                        </condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>
+                            <p>Inscriptions, keywords and parts of the figures in red.</p>
+                        </layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Dîwanî to 19 lines, small, round, fleeting and clear.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>Sebastian Tengnagel's bibl. note on 1r (ex libris and Index Nr.), other hand on 91v</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>Valjevo</origPlace>
+                        <dates>
+                            <copydate>10.05.1556</copydate>
+                        </dates>
+                    </origin>
+                    <provenance>
+                        <p>Die Abschrift wurde <origDate notBefore='1555' notAfter='1556'>Donnerstag 29. Dschumâdâ II 963 (10. Mai 1556)</origDate> von <name>Scha’bân Bin Muḥammad</name> in der Stadt <place>Valjevo</place> vollendet.</p>
+                    </provenance>
+                    <accquisition>not available</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Taʾrīḫ</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.53</idno>
+                    <altIdentifier type='FC'>
+                        <idno>884</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>15</idno>
+                    </altIdentifier>
+                    <msName>Taʾrīḫ</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>Annals", a history of the “Saracens” from the time of the prophet Muḥammad until 1259.</summary>
+                    <textLang>mainLang='ar' commentLang='la'</textLang>
+                    <author>al-Makīn Ibn al-ʿAmīd</author>
+                        <ref>http://d-nb.info/gnd/1055530495</ref>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>Ishāq b. ʿAlī</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Taʾrīḫ</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='history'>
+                                <subcat>History.</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>White European paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>294 Bll.Quart
+                            <dimensions unit='cm'>
+                                <height>25,4</height>
+                                <width>17,78</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>will be added</condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>will be added</layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>
+                            <p>By the same European hand that wrote No. 853.</p>
+                        </handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Nashî to 15 lines, large, clear, quite incorrect.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>many notes of ST in the margins on every page (annotations, ...) Flügel: „Tengnagel, to whom the codex belonged, gave the contents in Latin in the margin almost to the end.“</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not available</origPlace>
+                        <dates>
+                            <copydate>22.6.1538</copydate>
+                        </dates>
+                    </origin>
+                    <provenance>
+                        <p>Auf dem letzten nicht folierten aufgeklebten und kleineren Blatte bemerkt eine Unterschrift in Dîwânî, welche schwerlich zum Codex gehört, dass <name type='person'>Ishâḳ Bin ‘Alî</name> die Abschrift <origDate notBefore='1537' notAfter='1538'>24. Muḥarram 945 (22. Juni 1538)</origDate> vollendet habe.</p>
+                    </provenance>
+                    <accquisition>present 1636</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>
+                        <correspondence>
+                            <ref>Cod. 9737r, ff. 67r-v.
+                                <p> <name type='person'>J. Gruter</name> to <name type='person'>Sebastian Tengnagel</name> - <origDate notBefore='1606' notAfter='1607'>1607-11-07</origDate>: Sebastian Tengnagel writes on the back of the letter that he sent back the manuscript through <name type='person'>Andreas Wechelius</name> on <origDate notBefore='1607' notAfter='1608'>5 march 1608</origDate>.</p>
+                            </ref>
+                        </correspondence>
+                    </listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

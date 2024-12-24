@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sammelhandschrift</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.343</idno>
+                    <altIdentifier type='FC'>
+                        <idno>774</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>not available</idno>
+                    </altIdentifier>
+                    <msName>Sammelhandschrift</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>Poetic collective manuscript.</summary>
+                    <textLang>mainLang='tr' commentLang='la' </textLang>
+                    <author>Muḥibbī Ilbaṣânî</author>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>not available</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Sammelhandschrift</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='literature'>
+                                <subcat>Poetry.</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>White, yellow etc. paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>79 Bll.Octav
+                            <dimensions unit='cm'>
+                                <height>17,78</height>
+                                <width>10,16</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>will be added</condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>
+                            <p>On the margin of some leaves various seals and here and there by Tengnagel Latin inscribed meanings of individual words.</p>
+                        </layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Dîwânî and Ta'lîk mostly by one hand and more or less clearly to 12 and more or less lines.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>Sebastian Tengnagel's interlinear translation and notes on: 21r; 33v; 47r; and some seals.</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not available</origPlace>
+                        <dates>
+                            <compliationdate>16th century</compliationdate>
+                        </dates>
+                    </origin>
+                    <provenance>will be added</provenance>
+                    <accquisition>At the latest in 1820 in the court library.</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

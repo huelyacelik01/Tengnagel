@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tevārīḫ-i ʿOs̱mān</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.445</idno>
+                    <altIdentifier type='FC'>
+                        <idno>985</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>193</idno>
+                    </altIdentifier>
+                    <msName>Tevārīḫ-i ʿOs̱mān</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>The Annals of the Ottoman Ruling Family" "goes up to the year 896 (beg. 14 Nov. 1490) in the middle of the reign of Sultan Bâjazîd II.</summary>
+                    <textLang>mainLang='tr' commentLang='la'</textLang>
+                    <author>unknown</author>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>not available</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Tevārīḫ-i ʿOs̱mān</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='history'>
+                                <subcat>Ottoman history.</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>White Paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>144 Bll. small Octav
+                            <dimensions unit='cm'>
+                                <height>17,78</height>
+                                <width>12,7</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>will be added</condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>will be added</layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Naschî of 21 lines, fleeting, clear and partially vocalized.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>1v: Historia Turcica lingua ab origine scirpis Othomanicae ....; Mss. ...; Ex libris ...; no other notes of Sebastian Tengnagel.</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not available</origPlace>
+                        <dates>
+                            <copydate>in or after 1490</copydate>
+                        </dates>
+                    </origin>
+                    <provenance>will be added</provenance>
+                    <accquisition>present 1636</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Raużat aṣ-ṣafāʾ fī sīrat al-anbiyāʾ va-l-mulūk va-l-ḫulafāʾ</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.11</idno>
+                    <altIdentifier type='FC'>
+                        <idno>831</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>4</idno>
+                    </altIdentifier>
+                    <msName>Raużat aṣ-ṣafāʾ fī sīrat al-anbiyāʾ va-l-mulūk va-l-ḫulafāʾ</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>Second copy of the first and second part of the same work in a very correct and reliable manuscript.</summary>
+                    <textLang>mainLang='fa' commentLang='la'</textLang>
+                    <author>Mīr Ḫvānd - Muḥammad Bin Ḫvand Shāh Bin Maḥmūd</author>
+                        <ref>http://d-nb.info/gnd/104278277</ref>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>not available</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Raużat aṣ-ṣafāʾ fī sīrat al-anbiyāʾ va-l-mulūk va-l-ḫulafāʾ</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='history'>
+                                <subcat>Universal history.</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>Grey yellow paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>544 Bll.Folio
+                            <dimensions unit='cm'>
+                                <height>33,02</height>
+                                <width>about 22,86</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>will be added</condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>
+                            <p>Inscriptions and keywords are in red, the Arabic places red overpainted,the lining gold and colored.</p>
+                        </layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Nasta'lîk to 25 lines, beautiful and clear.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>Sebastian Tengnagel's long note on fol. Ir (besides that only some notes).</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not available</origPlace>
+                        <dates>
+                            <purchasedate>1624</purchasedate>
+                        </dates>
+                    </origin>
+                    <provenance>will be added</provenance>
+                    <accquisition>
+                        <p><Origdate notAfter='1624' notBefore='1623'>1624</Origdate>from<name type='person'>Tengnagel</name> in <place>Istanbul</place> received for 40 Imperial thaler.</p>
+                    </accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

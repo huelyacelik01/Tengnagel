@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kitāb ath-thānī min funūn al-qānūn</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.61</idno>
+                    <altIdentifier type='FC'>
+                        <idno>1456</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>42</idno>
+                    </altIdentifier>
+                    <msName>Kitāb ath-thānī min funūn al-qānūn</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>The Second Book of the Sciences of the Canon [of Medicine].</summary>
+                    <textLang>mainLang='ar' commentLang='la'</textLang>
+                    <author>Ibn Sinā</author>
+                        <ref>http://d-nb.info/gnd/118505254</ref> 
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>not available</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Kitāb ath-thānī min funūn al-qānūn</title> 
+                        <ref>http://d-nb.info/gnd/1211583112</ref>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='science'>
+                                <subcat>Medicine</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                            <p>Dark yellow paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>160 Bll. small folios
+                            <dimensions unit='cm'>
+                                <height>25,4</height>
+                                <width>17,78</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>will be added</condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>will be added</layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>The original clear and careful magribine stroke to 26 lines.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>"With Latin letters by the hand of Tengnagel and numbers referring to some unknown concordance." "Ex libris Sebastiani Tengnagel Burani Sygambri Caes. Biblioth. Cur. Hunc Eben Sinae sive Avicennae Canonem, ..."</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not available</origPlace>
+                        <origDate>not available</origDate>
+                    </origin>
+                    <provenance>will be added</provenance>
+                    <accquisition>bought for 30 fl.</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

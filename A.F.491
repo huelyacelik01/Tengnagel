@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Qurʾān</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.491</idno>
+                    <altIdentifier type='FC'>
+                        <idno>1611</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>103</idno>
+                    </altIdentifier>
+                    <msName>Qurʾān</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>Complete manuscript of the Quran</summary>
+                    <textLang>mainLang='ar' commentLang='la'</textLang>
+                    <author>not available</author>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>Ḫidr b. ʿAbdallāh</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Qurʾān</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='religion'>
+                                <subcat>Qur'an.</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>Dirty white Paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>369 Bll.(Bl.370 Flyleaf) Duodez
+                            <dimensions unit='cm'>
+                                <height>12,7</height>
+                                <width>7,62</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>will be added</condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>
+                            <p>Inscriptions, offsets, indication of sections are red, the margin is wide.</p>
+                        </layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Nashî, even, small and clear to 15 lines.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>Sebastian Tengnagel's note: inner book cover: Mss. Arab. Pers. Turc. Tengnag. N. 103.</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>Ṭūrīmān</origPlace>
+                        <origDate>
+                            <copydate>04.1582</copydate>
+                        </origDate>
+                    </origin>
+                    <provenance>
+                        <p>Vollendet mitten im <origDate notBefore='1581' notAfter='1582'>Rabî‘ I Donnerstag 990 (April 1582)</origDate> von <name type='person'>Chidr Bin ‘Abdallâh</name> in der Stadt <place>Tûrîmân</place></p>
+                    </provenance>
+                    <accquisition>not available</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

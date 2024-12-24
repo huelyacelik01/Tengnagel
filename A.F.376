@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dīvān-i Necātī</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.376</idno>
+                    <altIdentifier type='FC'>
+                        <idno>661</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>72</idno>
+                    </altIdentifier>
+                    <msName>Dīvān-i Necātī</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>Poetry Collection.</summary>
+                    <textLang>mainLang='tr' commentLang='la'</textLang>
+                    <author>Necātī</author>
+                        <ref>http://d-nb.info/gnd/115757511</ref>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>Muḥammad Suhāyī Bin ʿAlī</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Dīvān-i Necātī</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='literature'>
+                                <subcat>Poetry.</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>White and strong paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>205 Bll.(Bl.1,2 and 205v fill poetry from foreign hand)Octav
+                            <dimensions unit='cm'>
+                                <height>17,78</height>
+                                <width>10,16</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>
+                            <p>The text is well preserved.</p>
+                        </condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>will be added</layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Naschî, small, nice and clear in two colums of 13 lines.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>Latin interlinear translations of several words on fol. 17v, 19r, 81r-v and 198v; 3v: "Ex libris .... Auctor est Negiati. Poemata Lingua Turcica elegantissime composita quibus multa persica et Arabica inserta sunt vocabula".</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not available</origPlace>
+                        <dates>
+                            <copydate>16.10.1515</copydate>
+                        </dates>
+                    </origin>
+                    <provenance>
+                        <p><name type='person'>Muḥammad Suhâî Bin ‘Alî</name> vollendete die Abschrift binnen acht Tagen vom <origDate notBefore='1514' notAfter='1515'>1. – 8- Ramaḍân des J. 921 (9. – 16. Oct. 1515)</origDate></p>
+                    </provenance>
+                    <accquisition>present 1636</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

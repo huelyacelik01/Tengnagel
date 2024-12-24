@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dīwān ʿabd al-Bāqī</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.386</idno>
+                    <altIdentifier type='FC'>
+                        <idno>694</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>31</idno>
+                    </altIdentifier>
+                    <msName>Dīwān ʿabd al-Bāqī</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>The collection of poems by the poet Maḥmūd, born in Constantinople in 933 (8 Oct. 1526) and died on 23 Ramaḍān 1008 (7 April 1600), usually called ʿAbd al-Bāḳī or Bāḳī.</summary>
+                    <textLang>mainLang='tr' commentLang='la' </textLang>
+                    <author>Bāḳī</author>
+                        <ref>http://d-nb.info/gnd/1053413262 </ref>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>Ibrāhīm Bin Ḥāccī Muḥammed al-Ḳocavī</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Dīwān ʿabd al-Bāqī</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='literature'>
+                                <subcat>Poetry.</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>White, pink, blue, marbled paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>317 S.Octav
+                            <dimensions unit='cm'>
+                                <height>17,78</height>
+                                <width>10,16</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>
+                            <p>The text is well preserved.</p>
+                        </condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>
+                            <p>Lining and copies are red.</p>
+                        </layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>
+                            <p>Both Dîwânen from one hand.</p>
+                        </handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Ta'lîk, clear and crowded in two colums of 13 lines, but not the free, light Persian stroke.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>1r: Abd Elbaki Poeta celeberrimus apud Mahummedanos, floruit sub Suleymane Imperat.; Mss. ...; No. 31. 15.flor.; no other notes of Sebastian Tengnagel.</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not available</origPlace>
+                        <dates>
+                            <copydate>13.09.1569</copydate>
+                        </dates>
+                    </origin>
+                    <provenance>
+                        <p>Die Abschrift wurde von <name type='person'>Ibrâhîm Bin Ḥâdschî Muḥammad al-Ḳodschawî</name> zu <origDate notBefore='1568' notAfter='1569'>Anfange des Rabî‘ II. 977 (13. Sept. 1569)</origDate> vollendet, eine Zeitangabe, die mit dem Todesjahre des Verfassers insofern zu vereinigen ist.</p>
+                    </provenance>
+                    <accquisition>bought from Tengnagel for 15 fl.</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

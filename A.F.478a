@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Risāle-i Dānistan</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.478a</idno>
+                    <altIdentifier type='FC'>
+                        <idno>143</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>not available</idno>
+                    </altIdentifier>
+                    <msName>Risāle-i Dānistan</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>Fragments of the Persian-Turkish glossary Dânistan.</summary>
+                    <textLang>Mixed Persian and Turkish?</textLang>
+                    <author>unknown author</author>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>not available</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                         <name></name>
+                    </respStmt>
+                    <title>Risāle-i Dānistan</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='science'>
+                                <subcat>Lexicohraphy.</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>Light yellow paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>35 Bll.Duodez
+                            <dimensions unit='cm'>
+                                <height>12,7</height>
+                                <width>7,62</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>will be added</condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>will be added</layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Naschî, clearly, and the restored part Bl. 1 - 5 more pleasing, the Persian black, the Turkish below red.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>Sebastian Tengnagel's notes (interlinear translations): 17v-21v; 23v, 26r, 27r.</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not available</origPlace>
+                        <origDate>not available</origDate>
+                    </origin>
+                    <provenance>will be added</provenance>
+                    <accquisition>present 1636</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

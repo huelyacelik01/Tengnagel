@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kitāb-ı Tevārīḫ-i ʿ Selāṭīn Āl-i ʿOs̱mān</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.233</idno>
+                    <altIdentifier type='FC'>
+                        <idno>1000</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>20</idno>
+                    </altIdentifier>
+                    <msName>Kitāb-ı Tevārīḫ-i ʿ Selāṭīn Āl-i ʿOs̱mān</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>The history of the Ottoman dynasty till the year 1549.</summary>
+                    <textLang>mainLang='tr' transLang='la' commentLang='la'</textLang>
+                    <author>not available</author>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>not available</name>
+                        <resp>in the commission of the copy of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Kitāb-ı Tevārīḫ-i ʿ Selāṭīn Āl-i ʿOs̱mān</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='history'>
+                                <subcat>Ottoman history.</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>White yellow paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>127 Bl. wide Octav (Bl. 130 and 131 many Latin von einem frühern Besitzer vom J.1581, z:B. eine Beschreibung Constantinopels, zwei Gedicht u.s.w.)
+                            <dimensions unit='cm'>
+                                <height>20,32</height>
+                                <width>12,7</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>will be added</condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>
+                            <p>Inscriptions, the numbers of the years and edging are in red colour.</p>
+                        </layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Nashî to 11 lines, blunt, uncertain, and fleeting, but generally clear and vocalized.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>"Partly and indeed very often and exactly Latin by Tengnagel noted in the margin and the translation of individual words between the lines".</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not available</origPlace>
+                        <dates>
+                            <compositiondate>1500-1599</compositiondate>
+                        </dates>
+                    </origin>
+                    <provenance>not available</provenance>
+                    <accquisition>present 1636</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

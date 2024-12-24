@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Qawāʿid kullī fī l-Furs</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.426</idno>
+                    <altIdentifier type='FC'>
+                        <idno>124</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>77</idno>
+                    </altIdentifier>
+                    <msName>Qawāʿid kullī fī l-Furs</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>Third copy of Ḥalīmīs Dictionary; General Basic Teachings of the Persian Language.</summary>
+                    <textLang>Persian and Turkish?</textLang>
+                    <author>Ḥalīmī</author>
+                        <ref>http://d-nb.info/gnd/1099470218</ref>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>not available</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Qawāʿid kullī fī l-Furs</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='science'>
+                                <subcat>Lexicography.</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>Light yellow paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>131 Bll.little Quart
+                            <dimensions unit='cm'>
+                                <height>15,24</height>
+                                <width>12,7</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>
+                            <p>A little stained.</p>
+                        </condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>
+                            <p>The headings,Persian words with the lining red.</p>
+                        </layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Stroke nasta'lîkartig, fleeting, not unpleasant, to 19 lines.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>1r: Ex libris ...; Dictionarium PersicoTurcicum auctore Lathephulla filio Iosephi Halimi, Est Egregium Lexicon Persicum; Arabic script of ST: لغت الحليمي 
+                            56v: three notes of Sebastian Tengnagel.</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not available</origPlace>
+                        <dates>
+                            <copydate>1509</copydate>
+                        </dates>
+                    </origin>
+                    <provenance>will be added</provenance>
+                    <accquisition>bought from Tengnagel for 15 fl.</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

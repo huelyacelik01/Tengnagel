@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Risālāt Maulānā Kamāl-Pāshā-zāda</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.465</idno>
+                    <altIdentifier type='FC'>
+                        <idno>1791</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>81</idno>
+                    </altIdentifier>
+                    <msName>Risālāt Maulānā Kamāl-Pāshā-zāda</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>Turkish Commentary, Muḥammad Mauḳūfātī's, who dedicated it to Sultan Ibrāhīm (r. 1049-1058-1640-1648), on the well-known work of the Confluence of the Two Seas on the practical legal doctrines according to the Hanefitic rite, by the Sheikh and Imām Ibrāhīm bin Muḥammad al-Ḥalabī, who died in 956(1549).</summary>
+                    <textLang>mainLang='ar'</textLang>
+                    <author>Kemalpaşazade</author>
+                        <ref>http://d-nb.info/gnd/123063523</ref>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>not available</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Risālāt Maulānā Kamāl-Pāshā-zāda</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='will be added'>
+                                <subcat>will be added</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>White paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>163 Bll.(the other not mentioned leaves are empty) Duodez
+                            <dimensions unit='cm'>
+                                <height>12,7</height>
+                                <width>10,16</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>will be added</condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>
+                            <p>Inscriptions are red, here and there marginal notes and quite compared.</p>
+                        </layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Nasta'lîk by one hand, cursive, not unpleasant and clear to 21 lines.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>will be added</additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not available</origPlace>
+                        <dates>
+                            <copydate>1552</copydate>
+                        </dates>
+                    </origin>
+                    <provenance>will be added</provenance>
+                    <accquisition>bought from Tengnagel for 6 Gulden.</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>
+

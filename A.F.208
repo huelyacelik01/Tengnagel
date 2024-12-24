@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Luġat-i Ḥalīmī</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.208</idno>
+                    <altIdentifier type='FC'>
+                        <idno>125</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>19</idno>
+                    </altIdentifier>
+                    <msName>Luġat-i Ḥalīmī</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>Fourth copy of the Ḥalīmī.</summary>
+                    <textLang>mainLang='fa' secondLang='tr' commentLang='la'</textLang>
+                    <author>Ḥalīmī</author>
+                        <ref>http://d-nb.info/gnd/1099470218</ref>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>Maḥmūd Bin ʿAbdullāh</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Luġat-i Ḥalīmī</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='science'>
+                                <subcat>Lexicography.</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>White paper with yellow leaves.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>141 Bll. small Quart
+                            <dimensions unit='cm'>
+                                <height>20,32</height>
+                                <width>12,7</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>
+                            <p>Considerable good preserved.</p>
+                        </condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>
+                            <p>The headings and Persian words in red, the quoted poets are red overpainted.</p>
+                        </layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Nasta'lîk, crowded, dainty and clear to 19 lines.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>1v: N. 19 Arab. Pers. et Turc. Tennag. Lexicon Persicum Turcice et Arabice explicatum rarum et insigne opus; (already one marginal note of Sebastian Tengnagel); Ex libris ...; further notes on: 14v, 15r-v, 16r-v, 138v (Sebastian Tengnagel?).</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>Aja Jorji</origPlace>
+                        <dates>
+                            <copydate>15.03.1550</copydate>
+                        </dates>
+                    </origin>
+                    <provenance>
+                        <p>In Abschrift vollendet von <name type='person'>Maḥmûd Bin ‘Abdallâh</name> <origDate notBefore='1549' notAfter='1550'>den 25. Ṣafar 957 (15.März 1550)</origDate> in <place>Aja Jordi (Agia Giorgi)</place> zum Gerichtssprengel von <place>Narda</place> gehörig.</p>
+                    </provenance>
+                    <accquisition>present 1636</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

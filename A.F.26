@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Luġāt-i Emīr Ḥüseyin el-Ayāsī</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <idno>Cod. A.F.26</idno>
+                    <altIdentifier type='STC'>
+                        <idno>9</idno>
+                    </altIdentifier>
+                    <altIdentifier type='FC'> 
+                        <idno>144</idno>
+                    </altIdentifier>
+                </msIdentifier>
+                <msContents>
+                    <author>Emīr Ḥüseyn el-Ayāsī</author>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>Dervīş İbrāhīm</name>
+                        <resp>in the commission of the copy of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Luġāt-i Emīr Ḥüseyin el-Ayāsī</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='science'>
+                                <subcat>Lexicography.</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <textLang>xml:lang='English' mainLang='Persian' mainLang='Turkish' otherLangs='la'> Persian and Turkish with Lation translations and comments</textLang>
+                    <listBibl>will be added</listBibl>
+                    <bibl>?</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>white European Paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>377 Bll.folio
+                            <dimensions unit='cm'>
+                                <height>27,94</height>
+                                <width>17,78</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>will be added</condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>will be added</layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Naschî, large, clear, not unpleasant and vocalized, to 9 lines.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>Sebastian Tengnagel's notes on every page: translations, transcriptions, comments like references to a Persian translation of the pentateuch, Sebastian Tengnagel's Arabic script (mainly Persian words, but aslo some Ottoman Turkish words).</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <quote>Das Original, woraus diese Copie genommen, ist unstreitig Cod.CXCIII (Cod.227 Scal.)in Dozy Cat.J,S, 101...</quote>
+                        <origPlace>vermutlich Yanık/Györ/Raab</origPlace>
+                        <dates>
+                            <copydate>1614</copydate>
+                        </dates>
+                    </origin>
+                    <provenance>
+                        <p>Der unbekannte Abschreiber; ein Dragoman, datiert die Abschrift vom <origDate notBefore='1613' notAfter='1614'>Dschumâdâ I 1023 (Juni 1614).</origDate>. Beide sind wahrscheinlich aus dem Friedensinstrument genommen, welches die genannten zur Erneuerung des Friedens bevollmächtigen türkischen Gesandten in <place>Wien</place> <origDate notBefore='1614' notAfter='1615'>1615</origDate> unterzeichneten.</p>
+                    </provenance>
+                    <accquisition>present 1636</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>
+                        <correspondence>
+                            <ref1>Cod. 9737q, fol. 15r-v.
+                                <p> <name type='person'>Sebastian Tengnagel</name> to <name type='person'>Cornelius van der Mylen</name> - s.d.: He asks about the two <name type='person'>Scaliger</name> lexicons (Arabic-Turkish and Persian-Turkish). <name type='person'>Sebastian Tengnagel</name>would like to borrow them and add the Latin translation (Scaliger, according to him, complained about the absence of a Latin translation).</p>
+                            </ref1>
+                            <ref2>Cod. 9737q, fol. 44v.
+                                <p> <name type='person'>Sebastian Tengnagel</name> to <name type='person'>Daniel Heinsius</name> - <origDate notBefore='1611' notAfter='1612'>1612-08-30</origDate>: he suggests as a possible carrier of the code a friend of him, a merchant in <place>Amsterdam</place> named <name type='person'>Arnoldus Gulielmi</name>.</p>
+                            </ref2>
+                            <ref3>Cod. 9737r, fol. 269v-270r.
+                                <p> <name type='person'>Sebastian Tengnagel</name> to <name type='person'>Daniel Heinsius</name> - <origDate notBefore='1613' notAfter='1614'>1614-08-23</origDate>:(I send back, through <name type='person'>Johannes Wilhelm of Amsterdam</name> and his brother <name type='person'>Arnold Wilhelm</name>, who is a friend of mine, that Persian-Turkish lexicon of <name type='person'>Scaliger</name> in a perfect state of preservation).</p>
+                            </ref3>
+                        </correspondence>
+                    </listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

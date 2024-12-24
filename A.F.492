@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kitāb Aṣ-Ṣallat</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.492</idno>
+                    <altIdentifier type='FC'>
+                        <idno>1754</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>not available</idno>
+                    </altIdentifier>
+                    <msName>Kitāb Aṣ-Ṣallat</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>A very complete prayer book: Bl.2v-12r Arabic prayers with Turkish teachings.</summary>
+                    <textLang>mainLang='ar' commentLang='tr'</textLang>
+                    <author>not available</author>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>Derviš Muslim</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Kitāb Aṣ-Ṣallat</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='religion'>
+                                <subcat>Prayer books.</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>?</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>White paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>403 Bl. (Bl. 1 – 2r, 12v – 13r, 79, 100r, 130r, 139v, 159v, 165, 170r, 180, 198r, 200v, 201r, 209r, 217r, 227r – 228r, 233v, 237r, 246v, 256v, 266v, 267r, 277r, 297r, 307r, 317r, 328r – 329r, 348r – 349r, 355v – 356r, 402v – 403r with little exception empty) Duodez
+                            <dimensions unit='cm'>
+                                <height>12,7</height>
+                                <width>7,62</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>wll be added</foliation>
+                        <condition>
+                            <p>On the top and at the beginning water stained.</p>
+                        </condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>
+                            <p>Inscriptions and keywords are red.</p>
+                        </layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Nashî, the Arabic, Dîwânî the Turkish, dainty and careful to 13 lines, much vocalized.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>Precationes et Capitula quaed. ex Alcorano - Arab. et Turc. N. 33.</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not available</origPlace>
+                        <dates>
+                            <copydate>August/September 1618</copydate>
+                        </dates>
+                    </origin>
+                    <provenance>
+                        <p>Die Abschrift wurde vom Derwisch <name type='person'>Muslim</name> im <origDate notBeofre='1617' notAfter='1618'>Ramaḍân 1027 (August oder Sept. 1618)</origDate> vollendet. </p>
+                    </provenance>
+                    <accquisition>under Sebastian Tengnagel (+1636) already in the court library.</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

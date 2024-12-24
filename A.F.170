@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Qurʾān</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.170</idno>
+                    <altIdentifier type='FC'>
+                        <idno>1608</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>56</idno>
+                    </altIdentifier>
+                    <msName>Qurʾān</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>Magribinian fragment of the Koran.</summary>
+                    <textLang>mainLang='ar' commentLang='la'</textLang>
+                    <author>not available</author>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>Muḥammad Bin Mūsā Bin Muḥammad bin Ḥamza as-Saʿīdī</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Qurʾān</title> 
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='religion'>
+                                <subcat>Qur'an</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>White Paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>153 Bll.big Octav
+                            <dimensions unit='cm'>
+                                <height>17,78</height>
+                                <width>12,7</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>will be added</condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>will be added</layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Font not sharp, but clear and large to 10 lines, the headings indicated by brightly colored circles in the margin, the vowel signs, the indication of sections red.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>No notes of Sebastian Tengnagel, only before fol. 1r., see fotos; Soureth vel capitula quaedam ex Alcorano Muhammedis; N. 56 Mss. Arab. Pers. Turc. Tengnag.</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>Maghreb</origPlace>
+                        <dates>
+                            <copydate>17.08.1532</copydate>
+                        </dates>
+                    </origin>
+                    <provenance>
+                        <p>In Abschrift vollendet von <name type='person'>Muḥammad Bin Mûsâ Bin Muḥammad Bin Ḥamza as-Sa’îdî</name> aus der Stadt <place>Benṭius</place> <origDate notBefore='1531' notAfter='1532'>Sonnabend 15. Muḥarram 939 (17.Aug.1532)</origDate></p>
+                    </provenance>
+                    <accquisition>not available</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

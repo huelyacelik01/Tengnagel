@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ḥulviyāt-i Sulṭānī</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.169</idno>
+                    <altIdentifier type='FC'>
+                        <idno>1681</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>50</idno>
+                    </altIdentifier>
+                    <msName>Ḥulviyāt-i Sulṭānī</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>The Sultanic Sweets.</summary>
+                    <textLang>mainLang='tr' commentLang='la'</textLang>
+                    <author>Abū l-Ḥasan Ismāʿīl Bin Ibrāhīm Bin Isfandiyār Bin Bāyazīd ʿĀdil Bin Amīr Yaʿḳūb Bin Şams-ad-dîn Bin Yümn Candār</author>
+                        <ref>http://d-nb.info/gnd/1099094275</ref>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>Muḥyīddīn Alāʾī Beg</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Ḥulviyāt-i Sulṭānī</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='religion'>
+                                <subcat>Religion.</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>White paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>304 Bll.wide Octav
+                            <dimensions unit='cm'>
+                                <height>about 20,32</height>
+                                <width>12,7</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>will be added</condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>
+                            <p>Inscriptions and keywords in red.</p>
+                        </layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Dîwanî of one hand, very cursory to 18 lines.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>Sebastian Tengnagel: 1r: Tract. De ritibus et Legalibus Muhammedanorum. Turcica Lingua, Ex libris ...;</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not available</origPlace>
+                        <dates>
+                            <copydate>04.1578</copydate>
+                        </dates>
+                    </origin>
+                    <provenance>
+                        <p>Die Abschrift datiert vom <origDate notBefore='1577' notAfter='1578'>Ṣafar 986 (April 1578)</origDate> und war früher von einem <name type='person'>Muḥjî-ad-dîn Alâîbeg</name> irgend einer Moschee oder Madrasa als Legat geschenkt.</p>
+                    </provenance>
+                    <accquisition>present 1636</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

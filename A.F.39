@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mirḳātü l-luġat</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.39</idno>
+                    <altIdentifier type='FC'>
+                        <idno>113</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>13</idno>
+                    </altIdentifier>
+                    <msName>Mirḳātü l-luġat</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>Language ladder, by unknown author, who probably lived in the ninth or at most in the beginning of the tenth century of flight.</summary>
+                    <textLang>mainLang='ar' and 'tr' commentLang='la'</textLang>
+                    <author>unkwnown</author>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>Maḥmūd bin ʿAbdülmennān</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Mirḳātü l-luġat</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='science'>
+                                <subcat>Lexicography.</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>Light yellow paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>253 Bll.folios(254 empty)
+                            <dimensions unit='cm'>
+                                <height>27,94</height>
+                                <width>17,78</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>will be added</condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>
+                            <p>Besides here and there marginal glosses.</p>
+                        </layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Naschî, the Arabic larger and completely vocalized, the Turkish translation digonal below and smaller and more cursive.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>Only one note of Sebastian Tengnagel, see tag, transcribe note (list of sources?).</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>Serres</origPlace>
+                        <dates>
+                            <copydate>29.01.1540</copydate>
+                        </dates>
+                    </origin>
+                    <provenance>
+                        <p>Am Schlusse Bl.249r wird die Abschrift als <origDate notBefore='1539' notAfter='1540'>10. Ramaḍân 946 (19.Jan.1540)</origDate> im Kloster von <place>Sîrûz</place> vollendet bezeichnet, der Abschreiber aber nicht genannt.</p>
+                    </provenance>
+                    <accquisition>present 1636</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

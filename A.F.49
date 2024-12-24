@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Risāle-i Muḥammediyye</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.49</idno>
+                    <altIdentifier type='FC'>
+                        <idno>653</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>39</idno>
+                    </altIdentifier>
+                    <msName>Risāle-i Muḥammediyye</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>Panegyric Poem about the Prophet Muḥammad.</summary>
+                    <textLang>mainLang='tr'</textLang>
+                    <author>Yazıcıoġlı Muḥammed</author>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>Aḥmad Bin Ḥusein</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Risāle-i Muḥammediyye</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='literature'>
+                                <subcat>Poetry.</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>White and strong paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>248 Bll. folios
+                            <dimensions unit='cm'>
+                                <height>25,4</height>
+                                <width>17,78</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>will be added</condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>
+                            <p>The heading in red</p>
+                        </layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Nashî, large, clear, not unpleasant to 17 lines and fully vocalized.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>no notes of Sebastian Tengnagel.</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not available</origPlace>
+                        <dates>
+                            <copydate>24.07.1588</copydate>
+                        </dates>
+                    </origin>
+                    <provenance>
+                        <p><name type='person'>Aḥmad bin Ḥusein</name> vollendet die Abschrift am Ende des <origDate notBefore='1587' notAfter='1588'>Scha’bân Mittwochs 996 (24.Juli 1588).</origDate></p>
+                    </provenance>
+                    <accquisition>present 1636</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

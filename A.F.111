@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Korankommentar</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.111</idno>
+                    <altIdentifier type='FC'>
+                        <idno>1641</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>44</idno>
+                    </altIdentifier>
+                    <msName>Korankommentar</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>will be added</summary>
+                    <textLang>mainLang='ar' commentLang='la' </textLang>
+                    <author>unknown author</author>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                        <name>not available</name>
+                        <resp>in the commission of</resp>
+                        <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Korankommentar</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='religion'>
+                                <subcat>Qur'an.</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>Light yellowish braun paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>211 Bll.Quart
+                            <dimensions unit='cm'>
+                                <height>22,86</height>
+                                <width>15,24</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>will be added</condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>
+                            <p>The text words are in red colored.</p>
+                        </layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Nashî, large and clear stroke to 19 lines.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>Iv: Ex libris ...; 1r: Commentar. in Alcoranum Arabice; Arab. Pers. et Turc N. 44 Tengnag.</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not available</origPlace>
+                        <origDate>1st half of the 15th century</origDate>
+                    </origin>
+                    <provenance>will be added</provenance>
+                    <accquisition>von Tengnagel für 6 fl. gekauft</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

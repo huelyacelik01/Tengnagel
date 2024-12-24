@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kitāb ṣadr ash-sharīʿa</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.64</idno>
+                    <altIdentifier type='FC'>
+                        <idno>1787</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>41</idno>
+                    </altIdentifier>
+                    <msName>Kitāb ṣadr ash-sharīʿa</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>Commentary work to "Waḳāyata r-Riwāya" written by Ṣadr aš-šsarīʿa I.</summary>
+                    <textLang>mainLang='ar' commentLang='la'</textLang>
+                    <author>ʿUbaydulllāh Bin Masʿūd al-Maḥbūbī al-Buḫārī</author>
+                        <ref>http://d-nb.info/gnd/119281341</ref>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>not available</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Kitāb ṣadr ash-sharīʿa</title> 
+                        <ref>http://d-nb.info/gnd/1211583112</ref>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='religion'>
+                                <subcat>Religious law</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>White paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>61 Bll.small folio
+                            <dimensions unit='cm'>
+                                <height>25,4</height>
+                                <width>17,78</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>will be added</condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>
+                            <p>Headings and keywords in red, up to Bl.18 interlinear and marginal glosses.</p>
+                        </layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Naschî to 27 lines, cursive, crowded, yet secure.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>Iv: "Explicatio Rituum Muhammedicorum Arabice, elegant. script.; 1v: Ex libris ...: no notes except these.</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not available</origPlace>
+                        <origDate>not available</origDate>
+                    </origin>
+                    <provenance>will be added</provenance>
+                    <accquisition>bought for 6 fl.</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

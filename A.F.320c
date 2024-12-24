@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Luġat-i Gulistān</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.320c</idno>
+                    <altIdentifier type='FC'>
+                        <idno>96</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>29</idno>
+                    </altIdentifier>
+                    <msName>Luġat-i Gulistān</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>Arabic-Persian Glossary to Saʿdî's Gulistân.</summary>
+                    <textLang>mainLang='ar' secondLang='fa' commentLang='la'</textLang>
+                    <author>Saʿdī</author>
+                        <ref>http://d-nb.info/gnd/118604716</ref>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>Muḥammad Bin Shukrullāh</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Luġat-i Gulistān</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='science'>
+                                <subcat>Lexicography.</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>Light yellow paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>24 Bll.(55-78,79 empty)
+                            <dimensions unit='cm'>
+                                <height>17,78</height>
+                                <width>12,7</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>
+                            <p>Well preserved.</p>
+                        </condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>will be added</layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Nashî, small, pleasing and clear to 7 lines without the interlienear translation.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>notes of Sebastian Tengnagel on 55v: Lexicon quarumdam difficiliorum vocum Arabicorum et Persicarum, in Chulistan vel Roseto, elegantissimo libro morali Persico, extantium; 58v-59r, 60v, 66v, 71v (Arabic script of ST), 78v.</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not available</origPlace>
+                        <dates>
+                            <copydate>16.06.1569</copydate>
+                        </dates>
+                    </origin>
+                    <provenance>
+                        <p>Und letzterer bezeichnet als Jahr der Abschrift <origDate notBefore='1568' notAfter='1569'>977 (beg. 16. Juni 1569)</origDate></p>
+                    </provenance>
+                    <accquisition>present 1636</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

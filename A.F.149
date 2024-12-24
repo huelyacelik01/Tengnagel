@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Laṭāʾif al-afkār wa-kāshif al-asrār</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.149</idno>
+                    <altIdentifier type='FC'>
+                        <idno>885</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>25</idno>
+                    </altIdentifier>
+                    <msName>Laṭāʾif al-afkār wa-kāshif al-asrār</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>The Subtle Thoughts and the Discoverer of the Secrets” a historical encyclopaedia written by Ḥüseyn bin Ḥasan in 1529/30.</summary>
+                    <textLang>mainLang='ar' commentLang='la'</textLang>
+                    <author>Ḥüseyin Bin Ḥasan</author>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>Abū-Madyan</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Laṭāʾif al-afkār wa-kāshif al-asrār</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='history'>
+                                <subcat>History.</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>Ligth yellow paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>96 Bll.(Bl.1 und 2 empty)Octav
+                            <dimensions unit='cm'>
+                                <height>17,78</height>
+                                <width>10,16</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>will be added</condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>
+                            <p>Headings and border in red.</p>
+                        </layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Nashî to 19 lines, clear and pleasing.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>"Tengnagel wrote the keywords of the contents in Latin in the margin on pp. 5-15, 21-28, and 31-32." (ca. on 40 pages of notes by Sebastian Tengnagel).</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not available</origPlace>
+                        <dates>
+                            <compositiondate>1529</compositiondate>
+                            <copydate>1611</copydate>
+                        </dates>
+                    </origin>
+                    <provenance>
+                        <p>Von <name type='person'>Ḥusein Bin Ḥasan</name>, einem Richter zur Zeit <name type='person'>Suleimân’s I.</name>, der sein Werk <origDate notBefore='1528' notAfter='1529'>im J.936 (beg. 5. Sept. 1529)</origDate> verfasste und dem Grosswezîr <name type='person'>Ibrâhîmpascha</name> widmete. Die Abschrift datiert von der <origDate notBefore='1610' notAfter='1611'>Mitte des Monats Scha’bân 1020 (Octor oder November 1611)</origDate></p>
+                    </provenance>
+                    <accquisition>not available</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

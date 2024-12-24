@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Taʾyīd al-millat + Kitāb al-muğādala maʿa l-yahūd wa-n-naṣārī</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.58</idno>
+                    <altIdentifier type='FC'>
+                        <idno>1668</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>40</idno>
+                    </altIdentifier>
+                    <msName>Taʾyīd al-millat + Kitāb al-muğādala maʿa l-yahūd wa-n-naṣārī</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>Theological pamphlets against Jews and Christians.</summary>
+                    <textLang>mainLang='ar' commentLang='la'</textLang>
+                    <author>Abūʾlʿabbās Aḥmad al-Laḫmī Ash-sharafī</author>
+                        <ref>http://d-nb.info/gnd/114602231X </ref>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>Abū Zakarīyā Yaḥyā ibn Ibrāhīm ibn ʿUmar ar-Raqilī </name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Taʾyīd al-millat + Kitāb al-muğādala maʿa l-yahūd wa-n-naṣārī</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='religion'>
+                                <subcat>Religion</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>Messy pale yellow paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>62 Bll.folios(Bl.63 empty)
+                            <dimensions unit='cm'>
+                                <height>25,4</height>
+                                <width>about 20,32</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>
+                            <p>Well preserved.</p>
+                        </condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>
+                            <p>The headings in black Ṯuluṯ, the content briefly in the margin with individual text corrections.</p>
+                        </layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Magribinic stroke to 22 lines, very large, clear and vocalized.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>Sebastian Tengnagel's notes in the margins: "interesting drawings": a pointing finger - the contents must be read; these are probably so-called "reading marks" (underlining and pointing hands) http://15cbooktrade.ox.ac.uk/reading-practices/</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not sure Marokko</origPlace>
+                        <dates>
+                            <compositiondate>end of October or begin of November of 1405</compositiondate>
+                        </dates>
+                    </origin>
+                    <provenance>
+                        <p>Im Schluss Bl.30v wird die Vollendung dieser Schrift auf <origDate notBefore='1404' notAfter='1405'>Mittwoch im ersten Drittheil des Dschumâdâ I 808 (Ende October oder Anfang November 1405)</origDate> gesetzt.</p>
+                    </provenance>
+                    <accquisition>gekauft für 5 fl.</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

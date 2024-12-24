@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mecmūʿa</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.507</idno>
+                    <altIdentifier type='FC'>
+                        <idno>2003</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>not available</idno>
+                    </altIdentifier>
+                    <msName>Mecmūʿa</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>A more carefully chosen book of collections with a very large number of collectanes, Arabic, Persian and Turkish.</summary>
+                    <textLang>Arabisch,Türkisch und Persisch?</textLang>
+                    <author>different authors</author>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>ʿAṭāʾallāh b. ʿAbdī b. ʿAlī Edirnevī</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Mecmūʿa</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='multiple text manuscripts'>
+                                <subcat>will be added</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>White and yellow paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>530 Seiten (genau genommen mehr, da manche Seitenzahl doppelt gesetzt ist.) Duodez
+                            <dimensions unit='cm'>
+                                <height>12,7</height>
+                                <width>7,62</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>will be added</condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>will be added</layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Nashî of one hand and that of the repeatedly mentioned 'Aṭâallâh, small and pleasing, yet fleeting and often very crowded.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>Sebastian Tengnagel's notes on many pages; (pagination as pages: 23, 24, 25, 27, 28, 32, 43, 45-52, 60, 63, 71, 75, 77-83, 85, 86, 93, 95, 99, 100, 102, 103, 106, 107, 118, 121-5; 127-9; 136-8; 156-8; 161, 163, 166, 172-4; 181, ...</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>Istanbul</origPlace>
+                        <dates>
+                            <copydate>16th century</copydate>
+                        </dates>
+                    </origin>
+                    <provenance>will be added</provenance>
+                    <accquisition>present 1636</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

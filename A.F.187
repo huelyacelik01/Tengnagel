@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Būstān</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.187</idno>
+                    <altIdentifier type='FC'>
+                        <idno>535</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>64</idno>
+                    </altIdentifier>
+                    <msName>Būstān</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>Third copy of the same work formerly belonging to Tengnagel's library (no. 64).</summary>
+                    <textLang>mainLang='fa' commentLang='la'</textLang>
+                    <author>Saʿdī</author>
+                        <ref>http://d-nb.info/gnd/118604716</ref>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>not available</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Būstān</title>
+                        <ref>http://d-nb.info/gnd/1088001084</ref>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='literature'>
+                                <subcat>Poetry</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>Light yellow paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>142 Bll. Octav
+                            <dimensions unit='cm'>
+                                <height>17,78</height>
+                                <width>10,16</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>
+                            <p>A little stained.</p>
+                        </condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>
+                            <p>Headlines and border in red, occasionally a gloss in the margin.</p>
+                        </layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Ta'lîk, rather cursive, pleasing in two colums of 12 lines, but without elegance.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>1r: Mss. ...; 2v: Bostan sive Hortus, Poema Persicum elegantiss. Persice, Scheich Saadi. N. 64.</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>Baghdad</origPlace>
+                        <dates>
+                            <copydate>02.11.1565</copydate>
+                        </dates>
+                    </origin>
+                    <provenance>
+                        <p>Drittes Exemplar desselben Werkes, das früher zur Bibliothek <name type='person'>Tengnagels</name> gehörte. Die Abschrift wurde in <place>Bagdad</place> <origDate notBefore='1564' notAfter='1565'>8. Rabi‘ II 973 (2.Nov.1565)</origDate> vollendet.</p>
+                    </provenance>
+                    <accquisition>not available</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

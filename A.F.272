@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ḳırān-i Ḥabeşī</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.272</idno>
+                    <altIdentifier type='FC'>
+                        <idno>800</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>27</idno>
+                    </altIdentifier>
+                    <msName>Ḳırān-i Ḥabeşī</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>Fragment of a novel Qirān-i Ḥabešī, "set in the heroic age of the Persian Empire.</summary>
+                    <textLang>mainLang='tr' commentLang='la'</textLang>
+                    <author>Abū Ṭāhir Ṭarsūsī</author>
+                        <ref>http://d-nb.info/gnd/129552526</ref>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>Muṣṭafā Bin Şeyḫī</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Ḳırān-i Ḥabeşī</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='literature'>
+                                <subcat>Prose literature.</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>Messy white yellow paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>207 Bll.(Bl.50 and 51 are empty) Octav
+                            <dimensions unit='cm'>
+                                <height>17,78</height>
+                                <width>12,7</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>will be added</condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>
+                            <p>The many inscriptions and keywords are red.</p>
+                        </layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will bne added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Dîwânî by one hand,old, angular, good stroke of the 10th century to 21 lines.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>1r: Ex libris ...; Curatoris Ao. 1608; Historia fabul.; No. 27. 6.flor. Ms. Arab. ...; further notes on 3r, 4r, 93r, 94v, 204v.</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not available</origPlace>
+                        <dates>
+                            <copydate>09.09.1496</copydate>
+                            <purchasedate>1606</purchasedate>
+                        </dates>
+                    </origin>
+                    <provenance>
+                        <p>Die Abschrift vollendete <name type='person'>Muṣṭafâ Bin Scheichî</name> im <origDate notBefore='1495' notAfter='1496'>J.902 (beg. 9. Sept. 1496).</origDate></p>
+                    </provenance>
+                    <accquisition>1608 bought from Tengnagel for 6 fl.</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ʿAǧāʾibü l-Maḫlūqāt</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.480</idno>
+                    <altIdentifier type='FC'>
+                        <idno>1453</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>not available</idno>
+                    </altIdentifier>
+                    <msName>ʿAǧāʾibü l-Maḫlūqāt</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>Cosmographic, geographical and biological work about the sky, the moon, the sun and the other planets, about the properties of the sun and the moon, about the seas, the Seven Climates, the mountains, the rivers, the minerals and (precious) stones, about the plants, the people and the animals and about their fabulous and strange sides.</summary>
+                    <textLang>mainLang='tr' commentLang='la'</textLang>
+                    <author>Yazıcıoġlı Aḥmed Bīcān</author>
+                        <ref>http://d-nb.info/gnd/120617544</ref>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>Meḥmed bin İsmāʿīl Behīye</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>ʿAǧāʾibü l-Maḫlūqāt</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='science'>
+                                <subcat>Cosmography.</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>White yellow paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>59 Bll.(Bl.60 empty) Duodez
+                            <dimensions unit='cm'>
+                                <height>12,7</height>
+                                <width>7,62</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>
+                            <p>Well preserved.</p>
+                        </condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>will be added</layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Nasta'lîk to 13 lines, cursive, small, not unpleasant and clear.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>Ex libris and labeling/title, no other notes of Sebastian Tengnagel.</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not available</origPlace>
+                        <dates>
+                           <copydate>Februar or March 1616</copydate>
+                        </dates>
+                    </origin>
+                    <provenance>
+                        <p>Wahrscheinlich ein <name type='person'>Beirâmî, Muḥammad Bin Ismâ’îl Bahijat</name> vollendete die Abschrift im <origDate notBefore='1615' notAfter='1616'>Ṣafar 1025 (Febr. Oder März 1616)</origDate></p>
+                    </provenance>
+                    <accquisition>present 1636</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

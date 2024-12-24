@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Müşkilāt-i İnşā</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.461</idno>
+                    <altIdentifier type='FC'>
+                        <idno>107+108</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>53</idno>
+                    </altIdentifier>
+                    <msName>Müşkilāt-i İnşā</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>Difficult Words of Epistolary Style, a selection of about 500 mostly Arabic and fewer Persian words, ... with Turkish interlinear translation.</summary>
+                    <textLang>Mixed - Arabic,Persian and Turkish</textLang>
+                    <author>unknown author</author>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                         <name>not available</name>
+                        <resp>in the commission of</resp>
+                         <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Müşkilāt-i İnşā</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='science'>
+                                <subcat>Lexicography.</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>Paper light and dark yellow.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>9 Bll.Duodez
+                            <dimensions unit='cm'>
+                                <height>about 12,7</height>
+                                <width>7,62</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>
+                            <p>Well preserved.</p>
+                        </condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>will be added</layout>
+                    </layoutDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Nashî, fleeting, clear and vocalized, to 9 lines of text without the interlinear translation, with red dot after each text word.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>1r: Ex libris ...; Libellus Arabicus cum versione interlineari Turcicae; no other notes of Sebastian Tengnagel.</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not available</origPlace>
+                        <origDate>not available</origDate>
+                    </origin>
+                    <provenance>will be added</provenance>
+                    <accquisition>present 1636, 1 fl. 30 cruc.</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

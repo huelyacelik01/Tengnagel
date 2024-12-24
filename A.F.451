@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gulistān</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.451</idno>
+                    <altIdentifier type='FC'>
+                        <idno>544</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>79</idno>
+                    </altIdentifier>
+                    <msName>Gulistān</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>Third copy of the Rose Garden.</summary>
+                    <textLang>mainLang='fa' commentLang='la'</textLang>
+                    <author>Saʿdī</author>
+                        <ref>http://d-nb.info/gnd/118604716</ref>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>Niẓāmaddīn Ibn Shamsaddīn al-Qaṣṣār al-Ardabīlī</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Gulistān</title>
+                        <ref>http://d-nb.info/gnd/4277954-6</ref>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='literature'>
+                                <subcat>Poetry.</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>White paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>129 Bll.(Bl. 130 Flyleaf) Duodez
+                            <dimensions unit='cm'>
+                                <height>15,24</height>
+                                <width>10,16</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>
+                            <p>Water stained without causing a damage to the text.</p>
+                        </condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>
+                            <p>Inscriptions and keywords are red, lining is blue and black.</p>
+                        </layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Nasta'lîk, clear and pleasing to 11 lines.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>Inner cover: Mss. ....; Chulistan vel Rosarium vel hortus Rosarum, Opusculum morale elegantissimum lingua Persica; Ex libris ....;</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not available</origPlace>
+                        <origDate>
+                            <copydate>01.1495</copydate>
+                        </origDate>
+                    </origin>
+                    <provenance>
+                        <p>Die Abschrift wurde von <name type='person'>Niẓâm-ad-dîn Ibn Schams-ad-dîn al-Ḳaṣṣâr al-Ardabîlî</name> d.i dem Walker aus <place>Ardabîl</place> im <origDate notBefore='1494' notAfter='1495'>Rabî‘ II 900 (Jan.1495)</origDate> vollendet.</p>
+                    </provenance>
+                    <accquisition>bought from Tengnagel for 3 fl.</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

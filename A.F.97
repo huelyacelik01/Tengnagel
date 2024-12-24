@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Al-Arbaʿat al-Anāğīl al-muqaddasat</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.97</idno>
+                    <altIdentifier type='FC'>
+                        <idno>1544</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>43</idno>
+                    </altIdentifier>
+                    <msName>Al-Arbaʿat al-Anāğīl al-muqaddasat</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>Translation of the Gospel.</summary>
+                    <textLang>mainLang='ar' commentLang='la'</textLang>
+                    <author>not available</author>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>not available</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Al-Arbaʿat al-Anāğīl al-muqaddasat</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='religion'>
+                                <subcat>Religion</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>Yellowish braun cotton paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>217 Bll. wide Octav
+                            <dimensions unit='cm'>
+                                <height>22,86</height>
+                                <width>12,7</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>
+                            <p>The first pages worn-out.</p>
+                        </condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>
+                            <p>The headings, keywords, offsets, Coptic numeral in red, in the margins text improvements by old hand.</p>
+                        </layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Naschî,old, large, clear stroke to 16 lines.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>"All over the margins there are Latin remarks by the former owner Sebastian Tengnagel, who bought the codex (no. 41) for 10 ducats, and he bequeathed it to the imperial library from his death in 1605."</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not available</origPlace>
+                        <dates>
+                            <compositiondate>8th or 9th century</compositiondate>
+                            <copydate>14th or 15th century</copydate>
+                        </dates>
+                    </origin>
+                    <provenance>?</provenance>
+                    <accquisition>bought for 10 Ducats.</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

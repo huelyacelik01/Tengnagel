@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Būstān</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.404</idno>
+                    <altIdentifier type='FC'>
+                        <idno>536</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>73</idno>
+                    </altIdentifier>
+                    <msName>Būstān</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>Fourth copy, missing the introduction, the beginning of the first chapter and two leaves between folios 6 and 7.</summary>
+                    <textLang>mainLang='fa' commentLang='la'</textLang>
+                    <author>Saʿdī</author>
+                        <ref>http://d-nb.info/gnd/1088001084</ref>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>not available</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Būstān</title> 
+                        <ref>http://d-nb.info/gnd/1088001084</ref>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='literature'>
+                                <subcat>Poetry.</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>Normal paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>114 Bll.
+                            <dimensions unit='cm'>
+                                <height>17,78</height>
+                                <width>10,16</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>will be added</condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>
+                            <p>Inscriptions are red,with marginal glosses.</p>
+                        </layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Dîwânî, very cursive and without decoration to 17 lines and less.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>Sebastian Tengnagel's notes on some pages, transcribe; inner cover: Poemata lingua Persica. initio defect.; Mss. ....; No. 73. 4.flor.; ST's notes on: 43v, 44v, 45r, 47r-48r, 50v-52v, 54r, 55v, 57v-58v, 60v, 61v-62r, 63r-v, 64v, 65r, 66v-67v, 69r, 70v, 71v, 72r, 75r, 77r-v, 79r, 80v, 81r, 82r-v, 83v, 84v, 85r, 86r, 87r, 88r-v (ST's Arabic script), 89v.</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not available</origPlace>
+                        <dates>
+                            <copydate>12.04.1575</copydate>
+                        </dates>
+                    </origin>
+                    <provenance>will be added</provenance>
+                    <accquisition>Captured during the siege of <place>Esztergom</place> in <origDate notBefore='1568' notAfter='1569'>1596</origDate> and bought by Baron <name type='person'>Hiob Hartmann Einenkel</name></accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sharḥ-i Shāfiyya Ibn al-Ḥāǧib</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.177</idno>
+                    <altIdentifier type='FC'>
+                        <idno>182</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>not available</idno>
+                    </altIdentifier>
+                    <msName>Sharḥ-i Shāfiyya Ibn al-Ḥāǧib</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>will be added</summary>
+                    <textLang>mainLang='ar' commentLang='la'</textLang>
+                    <author>Imām Abū Muḥammad ʿAbdullāh Bin Ǧamāladdīn Yūsuf al-Anṣārī aka Ibn Hišām</author>
+                        <ref>http://d-nb.info/gnd/118934112</ref>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>Muḥammad Bin Abī l-Faḍl Bin Muḥammad BinʿAbdalwāḥid Ḫarrūb al-Anṣārī al-Ashʿarī al-Mālikī al-Muḥammadī al-Baġawī</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Sharḥ-i Shāfiyya Ibn al-Ḥāǧib</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='science'>
+                                <subcat>Grammar.</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>White and a little planed paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>169+132 Bll.(1 flyleaf, 167 and 168 empty) Octav
+                            <dimensions unit='cm'>
+                                <height>20,32</height>
+                                <width>12,7</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>
+                            <p>Very well preserved</p>
+                        </condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>
+                            <p>Headings and keywords in red, many words overlined in red, margin wide with glosses.</p>
+                        </layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Lettering magrebinic, solid, clear, crowded to 19 lines.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>Sebastian Tengnagel: 1v: Grammaticae observationes Auctore Abdallah Ben Hascham, Alanzari</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not available</origPlace>
+                        <dates>
+                            <copydate>20.05.1534</copydate>
+                        </dates>
+                    </origin>
+                    <provenance>
+                        <p>Die Abschrift vollendete, zunächst für sich, <name type='person'>Muḥammad Bin Abî‘lfaḍl Bin Muḥammad Bin ‘Abdalwaḥîd Charrûb al-Anṣârî al-Asch’arî al Mâlikî al-Muḥammadî al-Bagawî</name> <origDate notBefore='1533' notAfter='1534'>Donnerstags den 7.Ḏû‘lḳâ’da 940 (20.Mai 1534)</origDate></p>
+                    </provenance>
+                    <accquisition>not available</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

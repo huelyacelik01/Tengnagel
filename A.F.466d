@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Luġat-i İbn Firishte</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.466d</idno>
+                    <altIdentifier type='FC'>
+                        <idno>109</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>86</idno>
+                    </altIdentifier>
+                    <msName>Luġat-i İbn Firishte</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>Turkish glossary of about 1500 Arabic words found in the Quran in poem form.</summary>
+                    <textLang>Mixed Arabic and Turkish?</textLang>
+                    <author>Ibn-Malak, Muḥammad Ibn-ʿAbd-al-Laṭīf</author>
+                        <ref>http://d-nb.info/gnd/1026859506</ref>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>not available</name>
+                        <resp>in the commission of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Luġat-i İbn Firishte</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='science'>
+                                <subcat>Lexicography.</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>Light yellow paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>37 Bll.Duodez
+                            <dimensions unit='cm'>
+                                <height>12,7</height>
+                                <width>7,62</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>
+                            <p>A little bit messy.</p>
+                        </condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>will be added</layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>will be added</handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Naschî, Turkish clearer, somewhat pressed and to the left leaning stroke to 9, also to 8 and 10 lines, vocalized.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>no notes of Sebastian Tengnagel.</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not available</origPlace>
+                        <dates>
+                            <copydate>20.01.1559</copydate>
+                        </dates>
+                    </origin>
+                    <provenance>
+                        <p>Der im neunten oder zehnten Jahrhundert der Flucht gelebt haben muss und dieses arabisch-türkische Glossar, das von einem spätern Redacteur <name type='person'>Maḥmûd</name> auch den Titel Maḥmûdîja führt, zunächst für einen Enkel <name type='person'>‘Abdarraḥmân</name>, der daraus die Anfangsgründe der arabischen Sprache, hauptsächlich die im Koran vorkommenden Wörter, erlernen sollte, metrisch verfasste.</p>
+                    </provenance>
+                    <accquisition>present 1636</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>will be added</listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tā'rīḫü l-Cenābī</title>
+            </titleStmt>
+        </fileDesc>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>
+                    <country>Austria</country>
+                    <settlement>Vienna</settlement>
+                    <repository>Austrian National Library</repository>
+                    <collection>Department of Manuscripts and Rare Books</collection>
+                    <idno>Cod. A.F.12</idno>
+                    <altIdentifier type='FC'>
+                        <idno>853</idno>
+                    </altIdentifier>
+                    <altIdentifier type='TI'> 
+                        <idno>3</idno>
+                    </altIdentifier>
+                    <msName>Tā'rīḫü l-Cenābī</msName>
+                </msIdentifier>
+                <msContents>
+                    <summary>The history of Cenābī: a history of all Muslim dynasties up to and including the Ottomans.</summary>
+                    <textLang>mainLang='tr' commentLang='la' and 'ar'</textLang>
+                    <author>Mollā Sayyid Muṣṭafā Bin Ḥasan al-Ḥuseynī aka al-Cannābī</author>
+                    <respStmt>
+                        <resp>in the copy of</resp>
+                            <name>Dervīş İbrāhīm</name>
+                        <resp>in the commission of the copy of</resp>
+                            <name>Sebastian Tengnagel</name>
+                    </respStmt>
+                    <title>Tā'rīḫü l-Cenābī</title>
+                    <classDecl>
+                        <taxonomy>
+                            <category xml:id='history'>
+                                <subcat>Universal history.</subcat>
+                            </category>
+                        </taxonomy>
+                    </classDecl>
+                    <listBibl>will be added</listBibl>
+                    <bibl>will be added</bibl>
+                    <filiation>will be added</filiation>
+                </msContents>
+                <physDesc>
+                    <objectDesc form='codex'>
+                        <supportDesc>
+                            <material>paper
+                                <p>White paper.</p>
+                            </material>
+                        </supportDesc>
+                        <extent>225 Bl. folios(Bl.226-229 empty)
+                            <dimensions unit='cm'>
+                                <height>33,02</height>
+                                <width>20,32</width>
+                            </dimensions>
+                        </extent>
+                        <collation>will be added</collation>
+                        <foliation>will be added</foliation>
+                        <condition>will be added</condition>
+                    </objectDesc>
+                    <layoutDesc>
+                        <layout>
+                            <p>Inscriptions in red.</p>
+                        </layout>
+                    </layoutDesc>
+                    <handDesc>
+                        <handNote>
+                            <p>By the same probably European hand.</p>
+                        </handNote>
+                    </handDesc>
+                    <scriptDesc>
+                        <scriptNote>
+                            <p>Naschî,to 17 lines, pleasing and clear.</p>
+                        </scriptNote>
+                    </scriptDesc>
+                    <decoDesc>
+                        <decoNote>will be added</decoNote>
+                    </decoDesc>
+                    <additions>
+                        <p>Sebastian Tengnagel's notes, comments and corrections (including ST's arabic script) on many pages.</p>
+                    </additions>
+                    <bindingDesc>
+                        <binding>will be added</binding>
+                    </bindingDesc>
+                    <sealDesc>
+                        <seal>will be added</seal>
+                    </sealDesc>
+                </physDesc>
+                <history>
+                    <origin>
+                        <origPlace>not available</origPlace>
+                        <origDate>not available</origDate>
+                    </origin>
+                    <provenance>will be added</provenance>
+                    <accquisition>present 1636</accquisition>
+                </history>
+                <additional>
+                    <adminInfo>
+                        <recordHist>
+                            <source>will be added</source>
+                            <change>will be added</change>
+                        </recordHist>
+                        <availability>will be added</availability>
+                        <custodialHist>will be added</custodialHist>
+                    </adminInfo>
+                    <surrogates>will be added</surrogates>
+                    <listBibl>
+                        <correspondence>
+                            <ref1>Cod. 9737r, fol. 269r.
+                                <p>from <name type='person'>Sebastian Tengnagel</name> to <name type='person'>Erpenius</name>, <origDate notBefore='1613' notAfter='1614'>1614-08-23</origDate>,<place>Vienna</place>.<name type='person'>Sebastian Tengnagel</name> mentions it [Chronicon Ebu Gianher/Gianfer] among other manuscripts that he would like to publish.</p>
+                            </ref1>
+                        </correspondence>
+                    </listBibl>
+                </additional>
+            </msDesc>
+        </sourceDesc>
+    </teiHeader>
+</TEI>
